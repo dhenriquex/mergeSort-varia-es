@@ -58,6 +58,17 @@ A tabela a seguir mostra os tempos de execução para diferentes tamanhos de vet
       <td>0.099665s</td>
       <td>0.202949s</td>
     </tr>
+    <tr>
+      <td>MergeSort Inserção(10)</td>
+      <td>Tempo (segundos)</td>
+      <td>0.001064s</td>
+      <td>0.001640s</td>
+      <td>0.002335s</td>
+      <td>0.009048s</td>
+      <td>0.017866s</td>
+      <td>0.081337s</td>
+      <td>0.167703s</td>
+    </tr>
   </tbody>
 </table>
 
