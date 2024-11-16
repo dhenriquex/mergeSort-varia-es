@@ -1,7 +1,26 @@
 <h1>Comparativo das Variações do MergeSort</h1>
 
-<p>Este documento apresenta a comparação de desempenho entre diferentes variações do algoritmo **MergeSort**. A tabela a seguir mostra os tempos de execução para diferentes tamanhos de vetor para cada algoritmo.</p>
+<p>Este projeto de comparativo de desempenho de diferentes variações do algoritmo de MergeSort. O objetivo deste estudo é analisar a performance de diferentes versões do MergeSort ao ordenar vetores de diferentes tamanhos. Abaixo, você encontrará uma explicação detalhada de cada versão implementada</p>
+<ul>
+  <h2>
+    Variações abordadas:
+  </h2>
+  <li>
+    MergeSort Recurtivo
+  </li>
+    <li>
+    MergeSort Interativo
+  </li>
+  <li>
+    MergeSort por Insercao(m)
+  </li>
+  <li>
+    Merge Sort com Multiway Merge(k):
+  </li>
+</ul>
+A tabela a seguir mostra os tempos de execução para diferentes tamanhos de vetor para cada algoritmo
 
+<table border="1">
 <table border="1">
   <thead>
     <tr>
